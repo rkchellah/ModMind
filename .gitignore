@@ -1,0 +1,37 @@
+﻿# Environment
+.env
+.env.local
+.env.production
+.env.staging
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Build output
+.next/
+dist/
+build/
+out/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal workflow files
+CLAUDE.md
+CLAUDE_PROJECT.md
+VERTICAL.md
+BUG.md
+CHECKLIST.md
+HOW_TO_USE.md

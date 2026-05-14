@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+groq
+supabase==2.22.4
+praw
+pydantic
+python-dotenv
+httpx
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
